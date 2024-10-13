@@ -4,7 +4,7 @@ This repository contains solutions to various coding problems from my college pr
 
 ## Problem Set Overview
 
-[View PDF(Page 4)](https://github.com/joshivedant7/Python-Problem-Solving/blob/main/PB_Python-I_SEM%20III_2024.pdf#page=4)
+[View PDF](https://github.com/joshivedant7/Python-Problem-Solving/blob/main/PB_Python-I_SEM%20III_2024.pdf#page=4)
 
 ## Setup Instructions
 1. **Clone the repository:**
